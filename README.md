@@ -10,6 +10,8 @@
 
 - [Лаб. вежби](https://github.com/Delemangi/SP)
 
+___
+
 ### Семестар 2
 
 #### Објектно-ориентирано програмирање
@@ -20,6 +22,8 @@
 
 - [Лаб. вежби](https://github.com/Delemangi/OnVD)
 - [Проект](https://github.com/Delemangi/chrome-currency-converter)
+
+___
 
 ### Семестар 3
 
@@ -34,6 +38,8 @@
 #### Напредно програмирање
 
 - [Лаб. вежби](https://github.com/Delemangi/NP)
+
+___
 
 ### Семестар 4
 
@@ -59,6 +65,8 @@
 
 - [Лаб. вежби](https://github.com/Delemangi/DnA)
 
+___
+
 ### Семестар 5
 
 #### Бази на податоци
@@ -78,6 +86,8 @@
 
 - [Лаб. вежби](https://github.com/Delemangi/VvNzP)
 - [Проект](https://github.com/Delemangi/commodities-prices-analysis) - заеднички проект со предметите Веб програмирање и Електронска и мобилна трговија
+
+___
 
 ### Семестар 6
 
