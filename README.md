@@ -86,6 +86,7 @@ ___
 
 - [Лаб. вежби](https://github.com/Delemangi/VvNzP)
 - [Проект](https://github.com/Delemangi/commodities-prices-analysis) - заеднички проект со предметите Веб програмирање и Електронска и мобилна трговија
+- [Проект](https://github.com/Delemangi/commodities-prices-analysis) - заеднички проект со предметите Веб програмирање и Електронска и мобилна трговија
 
 ___
 
@@ -114,3 +115,11 @@ ___
 - [Домашна 4](https://github.com/Delemangi/KIII-4)
 - [Домашна 5](https://github.com/Delemangi/KIII-5)
 - [Проект](https://github.com/Delemangi/books-crud)
+
+___
+
+### Семестар 7
+
+#### Програмирање на видео игри
+
+- [Активности](https://github.com/Delemangi/PnVI)
