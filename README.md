@@ -96,7 +96,7 @@ ___
 
 - [Лаб. вежби](https://github.com/Delemangi/DnICK)
 - [Испитни](https://github.com/Delemangi/DnICK-exams)
-- [Проротип](https://github.com/Delemangi/techbits-prototype)
+- [Прототип](https://github.com/Delemangi/techbits-prototype)
 - [Проект](https://github.com/Delemangi/techbits)
 
 #### Машинско учење
@@ -122,4 +122,4 @@ ___
 
 #### Програмирање на видео игри
 
-- [Активности](https://github.com/Delemangi/PnVI)
+- [Лаб. вежби, работи на час](https://github.com/Delemangi/PnVI)
