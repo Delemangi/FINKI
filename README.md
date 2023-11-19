@@ -18,7 +18,7 @@ ___
 
 - [Лаб. вежби](https://github.com/Delemangi/OOP)
 
-#### Основи на веб дизајн
+#### Основи на Веб дизајн
 
 - [Лаб. вежби](https://github.com/Delemangi/OnVD)
 - [Проект](https://github.com/Delemangi/chrome-currency-converter)
