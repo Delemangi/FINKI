@@ -82,7 +82,7 @@ ___
 - [Лаб. вежби](https://github.com/Delemangi/VP)
 - [Испитни](https://github.com/Delemangi/VP-exams)
 
-#### Вовед во науката за податоците
+#### Вовед во науката за податоци
 
 - [Лаб. вежби](https://github.com/Delemangi/VvNzP)
 - [Проект](https://github.com/Delemangi/commodities-prices-analysis) - заеднички проект со предметите Веб програмирање и Електронска и мобилна трговија
