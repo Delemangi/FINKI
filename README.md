@@ -81,11 +81,12 @@ ___
 
 - [Лаб. вежби](https://github.com/Delemangi/VP)
 - [Испитни](https://github.com/Delemangi/VP-exams)
+- [Проект](https://github.com/Delemangi/commodities-prices-analysis) - заеднички проект со предметите `Вовед во науката за податоци` и `Електронска и мобилна трговија`
 
 #### Вовед во науката за податоци
 
 - [Лаб. вежби](https://github.com/Delemangi/VvNzP)
-- [Проект](https://github.com/Delemangi/commodities-prices-analysis) - заеднички проект со предметите Веб програмирање и Електронска и мобилна трговија
+- [Проект](https://github.com/Delemangi/commodities-prices-analysis) - заеднички проект со предметите `Веб програмирање` и `Електронска и мобилна трговија`
 
 ___
 
@@ -106,6 +107,7 @@ ___
 
 - [Лаб. вежби 1, 2](https://github.com/Delemangi/EiMT)
 - [Лаб. вежба 4](https://github.com/Delemangi/EiMT-DDD)
+- [Проект](https://github.com/Delemangi/commodities-prices-analysis) - заеднички проект со предметите `Веб програмирање` и `Вовед во науката за податоци`
 
 #### Континуирана испорака и интеграција
 
@@ -137,4 +139,8 @@ ___
 #### Имплементација на системи со слободен и отворен код
 
 - [Лаб. вежби](https://github.com/Delemangi/InSsSiOK)
-- [Проект](https://github.com/Delemangi/synthra) - заеднички проект со предметот Тимски проект
+- [Проект](https://github.com/Delemangi/synthra) - заеднички проект со предметот `Тимски проект`
+
+#### Тимски проект
+
+- [Проект](https://github.com/Delemangi/synthra) - заеднички проект со предметот `Имплементација на системи со слободен и отворен код`
