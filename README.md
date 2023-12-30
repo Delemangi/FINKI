@@ -135,6 +135,7 @@ ___
 - [Лаб. вежба 2](https://github.com/Delemangi/MIS-2)
 - [Лаб. вежба 3](https://github.com/Delemangi/MIS-3)
 - [Лаб. вежба 4](https://github.com/Delemangi/MIS-4)
+- [Лаб. вежба 5](https://github.com/Delemangi/MIS-5)
 - [Проект](https://github.com/Delemangi/finsight)
 
 #### Имплементација на системи со слободен и отворен код
