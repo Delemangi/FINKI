@@ -1,6 +1,6 @@
 # Материјали за ФИНКИ
 
-Овој репозиториум ги содржи сите лично изработени лабораториски вежби, домашни, проекти и слично, за сите предмети кои ги имам слушано, организирано според семестар.
+Овој репозиториум ги содржи сите лично изработени лабораториски вежби (означени како лаб. вежби), домашни задачи (означени како дом. задачи), решени колоквиумски или испитни задачи, проекти и слично, за сите предмети кои ги имам слушано лично, организирани според семестар.
 
 ## Предмети
 
@@ -58,7 +58,7 @@ ___
 
 #### Дигитално процесирање на слика
 
-- [Домашни](https://github.com/Delemangi/DPnS)
+- [Дом. задачи](https://github.com/Delemangi/DPnS)
 - [Проект](https://github.com/Delemangi/license-plates)
 
 #### Дизајн на алгоритми
@@ -75,12 +75,12 @@ ___
 
 #### Паралелно и дистрибуирано процесирање
 
-- [Лаб. вежби, домашни](https://github.com/Delemangi/PiDP)
+- [Лаб. вежби, дом. задачи](https://github.com/Delemangi/PiDP)
 
 #### Веб програмирање
 
 - [Лаб. вежби](https://github.com/Delemangi/VP)
-- [Испитни](https://github.com/Delemangi/VP-exams)
+- [Испитни задачи](https://github.com/Delemangi/VP-exams)
 - [Проект](https://github.com/Delemangi/commodities-prices-analysis) - заеднички проект со предметите `Вовед во науката за податоци` и `Електронска и мобилна трговија`
 
 #### Вовед во науката за податоци
@@ -95,7 +95,7 @@ ___
 #### Дизајн на интеракцијата човек-компјутер
 
 - [Лаб. вежби](https://github.com/Delemangi/DnICK)
-- [Испитни](https://github.com/Delemangi/DnICK-exams)
+- [Испитни задачи](https://github.com/Delemangi/DnICK-exams)
 - [Прототип](https://github.com/Delemangi/techbits-prototype)
 - [Проект](https://github.com/Delemangi/techbits)
 
@@ -111,10 +111,10 @@ ___
 
 #### Континуирана испорака и интеграција
 
-- [Домашни](https://github.com/Delemangi/KIiI)
-- [Домашна 1](https://github.com/Delemangi/KIII-1)
-- [Домашна 4](https://github.com/Delemangi/KIII-4)
-- [Домашна 5](https://github.com/Delemangi/KIII-5)
+- [Дом. задачи](https://github.com/Delemangi/KIiI)
+- [Дом. задача 1](https://github.com/Delemangi/KIII-1)
+- [Дом. задача 4](https://github.com/Delemangi/KIII-4)
+- [Дом. задача 5](https://github.com/Delemangi/KIII-5)
 - [Проект](https://github.com/Delemangi/books-crud)
 
 ___
@@ -149,4 +149,4 @@ ___
 
 #### Програмски парадигми
 
-- [Домашни](https://github.com/Delemangi/PP)
+- [Дом. задачи](https://github.com/Delemangi/PP)
