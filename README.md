@@ -151,3 +151,9 @@ ___
 #### Програмски парадигми
 
 - [Дом. задачи](https://github.com/Delemangi/PP)
+
+___
+
+## Дипломска Работа
+
+- [Проект](https://github.com/Delemangi/finki-discord-bot)
