@@ -76,6 +76,7 @@ ___
 #### Паралелно и дистрибуирано процесирање
 
 - [Лаб. вежби, дом. задачи](https://github.com/Delemangi/PiDP)
+- [Проект](https://github.com/Delemangi/courses-scraper)
 
 #### Веб програмирање
 
