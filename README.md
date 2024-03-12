@@ -156,4 +156,8 @@ ___
 
 ## Дипломска Работа
 
-- [Проект](https://github.com/Delemangi/finki-discord-bot)
+- [finki-discord-bot](https://github.com/Delemangi/finki-discord-bot)
+- [finki-scraper](https://github.com/Delemangi/finki-scraper)
+- [courses-scraper](https://github.com/Delemangi/courses-scraper)
+- [joberty-scraper](https://github.com/Delemangi/joberty-scraper)
+- [accreditations-scraper](https://github.com/Delemangi/accreditations-scraper)
