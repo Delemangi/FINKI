@@ -60,6 +60,7 @@ ___
 
 - [Дом. задачи](https://github.com/Delemangi/DPnS)
 - [Проект](https://github.com/Delemangi/license-plates)
+- [Документација](https://github.com/Delemangi/license-plates-docs)
 
 #### Дизајн на алгоритми
 
