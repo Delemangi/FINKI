@@ -86,12 +86,13 @@ ___
 - [Лаб. вежби](https://github.com/Delemangi/VP)
 - [Испитни задачи](https://github.com/Delemangi/VP-exams)
 - [Проект](https://github.com/Delemangi/commodities-prices-analysis) - заеднички проект со предметите `Вовед во науката за податоци` и `Електронска и мобилна трговија`
+- [Научен труд](http://hdl.handle.net/20.500.12188/27395) - дел од проектот
 
 #### Вовед во науката за податоци
 
 - [Лаб. вежби](https://github.com/Delemangi/VvNzP)
 - [Проект](https://github.com/Delemangi/commodities-prices-analysis) - заеднички проект со предметите `Веб програмирање` и `Електронска и мобилна трговија`
-- [Научен труд](http://hdl.handle.net/20.500.12188/27395)
+- [Научен труд](http://hdl.handle.net/20.500.12188/27395) - дел од проектот
 
 ___
 
@@ -114,6 +115,7 @@ ___
 - [Лаб. вежби 1, 2](https://github.com/Delemangi/EiMT)
 - [Лаб. вежба 4](https://github.com/Delemangi/EiMT-DDD)
 - [Проект](https://github.com/Delemangi/commodities-prices-analysis) - заеднички проект со предметите `Веб програмирање` и `Вовед во науката за податоци`
+- [Научен труд](http://hdl.handle.net/20.500.12188/27395) - дел од проектот
 
 #### Континуирана испорака и интеграција
 
