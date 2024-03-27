@@ -88,6 +88,7 @@ ___
 
 - [Лаб. вежби](https://github.com/Delemangi/VvNzP)
 - [Проект](https://github.com/Delemangi/commodities-prices-analysis) - заеднички проект со предметите `Веб програмирање` и `Електронска и мобилна трговија`
+- [Научен труд](http://hdl.handle.net/20.500.12188/27395)
 
 ___
 
