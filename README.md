@@ -65,6 +65,7 @@ ___
 #### Дизајн на алгоритми
 
 - [Лаб. вежби](https://github.com/Delemangi/DnA)
+- [Проект](https://github.com/Delemangi/DnA-project)
 
 ___
 
