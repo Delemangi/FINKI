@@ -96,6 +96,7 @@ ___
 #### Дизајн на интеракцијата човек-компјутер
 
 - [Лаб. вежби](https://github.com/Delemangi/DnICK)
+- [Дом. задачи](https://github.com/Delemangi/techbits-docs)
 - [Испитни задачи](https://github.com/Delemangi/DnICK-exams)
 - [Прототип](https://github.com/Delemangi/techbits-prototype)
 - [Проект](https://github.com/Delemangi/techbits)
