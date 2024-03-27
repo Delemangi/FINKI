@@ -77,6 +77,7 @@ ___
 
 - [Лаб. вежби, дом. задачи](https://github.com/Delemangi/PiDP)
 - [Проект](https://github.com/Delemangi/courses-scraper)
+- [Научен труд](https://www.overleaf.com/read/hqsnzytcfnpb#d33df2)
 
 #### Веб програмирање
 
