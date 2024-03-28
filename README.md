@@ -39,6 +39,10 @@ ___
 
 - [Лаб. вежби](https://github.com/Delemangi/NP)
 
+#### Компјутерски мрежи и безбедност
+
+- [Лаб. вежби](https://github.com/Delemangi/KMiB)
+
 ___
 
 ### Семестар 4
