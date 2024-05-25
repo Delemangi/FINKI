@@ -131,6 +131,10 @@ ___
 - [Дом. задача 5](https://github.com/Delemangi/KIII-5)
 - [Проект](https://github.com/Delemangi/books-crud)
 
+#### Мултимедиски системи
+
+- [Лаб. вежби](https://github.com/Delemangi/MS)
+
 ___
 
 ### Семестар 7
