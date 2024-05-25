@@ -174,6 +174,8 @@ ___
 
 ## Дипломска Работа
 
+Дипломската работа се состои од ботот на официјалниот Дискорд сервер на студентите на ФИНКИ и сите проекти поврзани со црпење информации коишто се достапни преку команди на ботот.
+
 - [finki-discord-bot](https://github.com/Delemangi/finki-discord-bot)
 - [finki-scraper](https://github.com/Delemangi/finki-scraper)
 - [courses-scraper](https://github.com/Delemangi/courses-scraper)
