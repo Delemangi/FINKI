@@ -181,3 +181,10 @@ ___
 - [courses-scraper](https://github.com/Delemangi/courses-scraper)
 - [joberty-scraper](https://github.com/Delemangi/joberty-scraper)
 - [accreditations-scraper](https://github.com/Delemangi/accreditations-scraper)
+
+## Магистерска Работа
+
+Магистерската работа е продолжение од дипломската работа и вклучува модулиларизација на Дискорд ботот и креирање на четбот.
+
+- [finki-chat-bot](https://github.com/Delemangi/finki-chat-bot)
+- [finki-discord-bot](https://github.com/Delemangi/finki-discord-bot)
