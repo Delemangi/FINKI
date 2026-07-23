@@ -123,7 +123,7 @@ ___
 - [Проект](https://github.com/Delemangi/commodities-prices-analysis) - заеднички проект со предметите `Веб програмирање` и `Вовед во науката за податоци`
 - [Научен труд](http://hdl.handle.net/20.500.12188/27395) - дел од проектот
 
-#### Континуирана испорака и интеграција
+#### Континуирана интеграција и испорака
 
 - [Дом. задачи](https://github.com/Delemangi/KIiI)
 - [Дом. задача 1](https://github.com/Delemangi/KIII-1)
@@ -174,17 +174,20 @@ ___
 
 ## Дипломска Работа
 
-Дипломската работа се состои од ботот на официјалниот Дискорд сервер на студентите на ФИНКИ и сите проекти поврзани со црпење информации коишто се достапни преку команди на ботот.
+Дипломската работа се состои од ботот на официјалниот Дискорд сервер на студентите на ФИНКИ и сите проекти поврзани со црпење информации кои што се достапни преку команди на ботот.
 
-- [finki-discord-bot](https://github.com/Delemangi/finki-discord-bot)
-- [finki-scraper](https://github.com/Delemangi/finki-scraper)
-- [courses-scraper](https://github.com/Delemangi/courses-scraper)
-- [joberty-scraper](https://github.com/Delemangi/joberty-scraper)
-- [accreditations-scraper](https://github.com/Delemangi/accreditations-scraper)
+- [finki-hub/discord-bot](https://github.com/finki-hub/discord-bot)
+- [finki-hub/services-scraper](https://github.com/finki-hub/services-scraper)
+- [finki-hub/courses-scraper](https://github.com/finki-hub/courses-scraper)
+- [finki-hub/joberty-scraper](https://github.com/finki-hub/joberty-scraper)
+- [finki-hub/accreditations-scraper](https://github.com/finki-hub/accreditations-scraper)
+- и други репозиториуми во истата организација под [finki-hub](https://github.com/finki-hub)
 
 ## Магистерска Работа
 
-Магистерската работа е продолжение од дипломската работа и вклучува модулиларизација на Дискорд ботот и креирање на четбот.
+Магистерската работа е продолжение од дипломската работа и вклучува модулиларизација на Дискорд ботот и креирање на чет бот.
 
-- [finki-chat-bot](https://github.com/Delemangi/finki-chat-bot)
-- [finki-discord-bot](https://github.com/Delemangi/finki-discord-bot)
+- [finki-hub/chat-bot](https://github.com/finki-hub/chat-bot)
+- [finki-hub/mcp](https://github.com/finki-hub/mcp)
+- [finki-hub/finki-auth](https://github.com/finki-hub/finki-auth)
+- [finki-public-apis](https://gitlab.finki.ukim.mk/wp/finki-public-apis)
