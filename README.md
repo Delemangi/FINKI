@@ -25,7 +25,6 @@ ___
 - [Лаб. вежби](https://github.com/Delemangi/OnVD)
 - [Дом. задача](https://github.com/Delemangi/Delemangi.github.io)
 - [Проект](https://github.com/Delemangi/chrome-currency-converter)
-- [Проект (прва верзија)](https://github.com/Delemangi/currency-converter)
 
 ___
 
