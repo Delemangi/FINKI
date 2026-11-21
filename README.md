@@ -23,7 +23,9 @@ ___
 #### Основи на Веб дизајн
 
 - [Лаб. вежби](https://github.com/Delemangi/OnVD)
+- [Дом. задача](https://github.com/Delemangi/Delemangi.github.io)
 - [Проект](https://github.com/Delemangi/chrome-currency-converter)
+- [Проект (прва верзија)](https://github.com/Delemangi/currency-converter)
 
 ___
 
@@ -127,6 +129,7 @@ ___
 
 - [Дом. задачи](https://github.com/Delemangi/KIiI)
 - [Дом. задача 1](https://github.com/Delemangi/KIII-1)
+- [Дом. задача 1 (почетна верзија)](https://github.com/Delemangi/KIII-Homework)
 - [Дом. задача 4](https://github.com/Delemangi/KIII-4)
 - [Дом. задача 5](https://github.com/Delemangi/KIII-5)
 - [Проект](https://github.com/Delemangi/books-crud)
@@ -191,3 +194,4 @@ ___
 - [finki-hub/mcp](https://github.com/finki-hub/mcp)
 - [finki-hub/finki-auth](https://github.com/finki-hub/finki-auth)
 - [finki-public-apis](https://gitlab.finki.ukim.mk/wp/finki-public-apis)
+- [llms-evaluation](https://github.com/Delemangi/llms-evaluation) - евалуација на LLM модели на македонски податоци
